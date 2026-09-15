@@ -1,16 +1,15 @@
-## Hi there 👋
+```bash
+$ whoami
+> Web Developer
 
-<!--
-**nikozora/nikozora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+$ stack
+> HTML | CSS | JavaScript | PHP
+> WordPress | React | Vue | Django
+> Laravel | MySQL | Git
 
-Here are some ideas to get you started:
+$ interests
+> Front-End | UI/UX | SEO | Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$ status
+> Building. Learning. Debugging. Repeat.
+```
